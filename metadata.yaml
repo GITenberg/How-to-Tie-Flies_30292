@@ -1,0 +1,28 @@
+_repo: How-to-Tie-Flies_30292
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 30292-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Gregg, Ellery Clark
+    alias: Gregg, E. C.
+    birthdate: 1899
+    gutenberg_agent_id: '34498'
+    url: http://www.gutenberg.org/2009/agents/34498
+description: ''
+gutenberg_bookshelf: Crafts
+gutenberg_issued: '2009-10-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30292'
+  lccn: '40027079'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'SH'
+- !lcsh 'Flies, Artificial'
+title: How to Tie Flies
+url: http://www.gutenberg.org/ebooks/30292
